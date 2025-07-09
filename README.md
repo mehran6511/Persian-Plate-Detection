@@ -54,6 +54,7 @@ The provided code snippets demonstrate the key steps involved:
 10. **OCR Model Evaluation:**
       * Evaluates the trained CNN model on the test set, reporting accuracy.
       * **test Accuracy**: **0.952**
+<img src="https://github.com/mehran6511/Persian-Plate-Detection/blob/main/Screenshot%202025-07-09%20180117.png" width="800"/>
 11. **Full Pipeline Implementation:**
       * Loads the trained YOLOv8 plate detector, YOLOv8 character segmenter, and CNN OCR model.
       * Defines a function `recognize_plates_from_image` that orchestrates the entire process:
