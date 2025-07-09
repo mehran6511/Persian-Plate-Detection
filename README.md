@@ -1,5 +1,5 @@
 # Iranian License Plate Recognition (YOLOv8 & CNN)
-
+<img src="https://github.com/mehran6511/Persian-Plate-Detection/blob/main/Untitled-2.jpg" width="800"/>
 This project implements an end-to-end system for **Iranian license plate recognition (ALPR)**. It leverages a two-stage approach:
 
 1.  **License Plate Detection and Character Segmentation** using **YOLOv8** models.
